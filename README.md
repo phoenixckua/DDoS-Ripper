@@ -1,4 +1,24 @@
 # DDoS-Ripper
+Before run docker, change URL (IP) and other params in Dockerfile .
+
+#docker build
+
+docker build -t phoenixua/dripper .
+
+
+#docker start 
+docker run --rm -ti  phoenixua/dripper:latest
+
+
+#docker-compose start 
+docker-compose up --build -d --scale attacker=4
+
+
+#docker-compose logs
+
+docker-compose logs -f  -t  --tail 20 attackerdocker-compose logs -f  -t  --tail 20 attacker
+
+
 <<<<<<< HEAD
 
 # What is a DDoS Attack?
