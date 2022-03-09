@@ -1,4 +1,5 @@
 # DDoS-Ripper
+<<<<<<< HEAD
 
 # What is a DDoS Attack?
 A Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
@@ -90,3 +91,6 @@ Or Facebook <a href="https://www.facebook.com/aduri.knox01/"><img src="https://i
 <a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left"> 
  
+=======
+DDoS-Ripper
+>>>>>>> 3ea2b9bc07e10c86d5d95bd75bf7928595d17f89
