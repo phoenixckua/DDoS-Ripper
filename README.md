@@ -31,6 +31,6 @@ From a higher level, the DDOS attack is like an unexpected traffic jam stuck on 
 
 `example: python3 DRipper.py -s 0.00.00.00 -t 135`
 
-<a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
+![image](https://user-images.githubusercontent.com/23301443/157440522-d32d12a0-103d-4185-b00a-1c38cee8d4ec.png)
 
 
